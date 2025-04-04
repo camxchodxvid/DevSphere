@@ -192,11 +192,10 @@ DevSphere is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact Information
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
+- **Name**: Julio D Gonzalez
+- **Email**: dxvid2001@gmail.com
 - **GitHub**: [camxchodxvid](https://github.com/camxchodxvid)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [DevSphere Live Site](https://yourportfolio.com)
+- **Portfolio**: [DevSphere Live Site](https://devsphere.com)
 
 ---
 
